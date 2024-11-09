@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 [![Oleksandr Shevtsov profile views](https://u8views.com/api/v1/github/profiles/11396724/views/day-week-month-total-count.svg)](https://u8views.com/github/Shelex)
--->
